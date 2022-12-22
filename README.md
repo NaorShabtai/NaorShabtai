@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hi there i'm NaorShabtai 👋
 
 - 🔭 I’m currently working on SweetIL
@@ -7,17 +11,18 @@
 <details>
 <summary>My top languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Lua       |
-|     2| Html      |
-|     3| Js        |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaorShabtai&layout=compact&theme=radical)](https://github.com/NaorShabtai/github-readme-stats)
   
 </details>
 
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=NaorShabtai&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+-------------------
 
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=NaorShabtai&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![NaorShabtai's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaorShabtai&show_icons=true&theme=tokyonight)
+![NaorShabtai's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaorShabtai&show_icons=true&theme=radical)
+
 
 ![Profile views](https://gpvc.arturio.dev/NaorShabtai)
+
+
