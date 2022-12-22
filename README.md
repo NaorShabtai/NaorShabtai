@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on SweetIL
 - 🌱 I’m currently learning lua
+- :fire_engine: Fun fact on me i'm on Israel Fire and Rescue Services
 
 <details>
 <summary>My top languages</summary>
