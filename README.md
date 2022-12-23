@@ -4,7 +4,8 @@
 
 ### Hi there i'm NaorShabtai 👋
 
-- 🔭 I’m currently working on SweetIL
+- 🔭 I’m currently working on - [SweetIL](https://discord.gg/6DBwznnHyK)
+- :bulb: My project is - [CoreVersion](https://github.com/CoreVersion)
 - 🌱 I’m currently learning lua
 - :fire_engine: Fun fact on me i'm on Israel Fire and Rescue Services
 
@@ -22,7 +23,7 @@
 
 ![NaorShabtai's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaorShabtai&show_icons=true&theme=radical)
 
+<img src="https://komarev.com/ghpvc/?username=your-github-NaorShabtai&style=flat-square&color=red" alt=""/>
 
-![Profile views](https://gpvc.arturio.dev/NaorShabtai)
 
 
