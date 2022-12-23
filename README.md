@@ -23,8 +23,6 @@
 
 ![NaorShabtai's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaorShabtai&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaorShabtai&layout=compact&theme=radical)](https://github.com/NaorShabtai/github-readme-stats)
-
 <img src="https://komarev.com/ghpvc/?username=your-github-NaorShabtai&style=flat-square&color=red" alt=""/>
 
 
