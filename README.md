@@ -4,7 +4,7 @@
 
 ### Hi there i'm NaorShabtai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- 🔭 I’m currently working on - [SweetIL](https://discord.gg/6DBwznnHyK)
+<!-- - 🔭 I’m currently working on - [SweetIL](https://discord.gg/6DBwznnHyK) -->
 - :bulb: My project is - [CoreVersion](https://github.com/CoreVersion)
 - 🌱 I’m currently learning lua
 - :fire_engine: Fun fact on me i'm on Israel Fire and Rescue Services
